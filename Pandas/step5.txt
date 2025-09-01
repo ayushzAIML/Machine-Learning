@@ -1,0 +1,26 @@
+1 - select specific column
+2 - filter rows
+3 - combine multiple conditions
+
+
+
+selecting rows
+1 - use square brackets for selecting
+2 - boolean conditions for filtering rows
+
+selecting columns
+1 - a single column will return a series
+2 - datarame multiple columns of data
+
+column = df("column_name")
+subset = df(["column_1","column_2",...."column_n"])
+
+
+filtering rows
+boolean indexing
+
+# based on a single conditions
+
+filtered_rows = df[df["salary"]>50000]
+
+filtered_rows = df[(df["Salary"] > 50000)&(df["column_2"]<80000)]
