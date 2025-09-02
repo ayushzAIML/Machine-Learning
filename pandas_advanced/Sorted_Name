@@ -1,0 +1,11 @@
+Name,Age,Salary,Performance_Score,Education,Bonus
+Alice,25.0,50000.0,88.0,Bachelors,2000.0
+Bob,,,,,
+Charlie,28.0,55000.0,85.0,Bachelors,2500.0
+David,35.0,70000.0,90.0,PhD,4000.0
+Eva,22.0,48000.0,87.0,Bachelors,1800.0
+Frank,40.0,80000.0,95.0,PhD,5000.0
+Grace,27.0,53000.0,84.0,Masters,2300.0
+Helen,32.0,62000.0,89.0,Bachelors,3200.0
+Ian,29.0,57000.0,91.0,Masters,2700.0
+Julia,26.0,51000.0,86.0,Bachelors,2100.0
